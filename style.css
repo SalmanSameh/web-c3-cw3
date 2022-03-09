@@ -1,7 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Lalezar&display=swap');
 .text-color{
     color: brown;
-    background-color: aquamarine;
+    background-color: aquamarine;  
+}
+h1{
     font-family: 'Lalezar', cursive;
 }
 #color{
